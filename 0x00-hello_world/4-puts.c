@@ -1,14 +1,6 @@
 #include <stdio.h>
 
-/**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+/* other headers goes hear */
 
 int main(void)
 
