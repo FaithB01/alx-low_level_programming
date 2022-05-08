@@ -8,3 +8,5 @@ Error
 aysi@ubuntu:~/0x0A. argc, argv$ ./add
 0
 aysi@ubuntu:~/0x0A. argc, argv$ 
+
+readme argc
